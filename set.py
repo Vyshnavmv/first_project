@@ -1,0 +1,10 @@
+set={1,2,3,4,5,5,5}
+print(set)
+set.remove(4)
+print(set)
+set.discard(4)
+print(set)
+set.pop()
+print(set)
+set.clear()
+print(set)
